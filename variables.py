@@ -18,3 +18,7 @@ k,l,j="hi","hello","what"
 print(k)
 print(l)
 print(j)
+X=5
+Y=6
+Z=7
+print(X+Y+Z)
