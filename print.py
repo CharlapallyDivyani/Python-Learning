@@ -1,0 +1,7 @@
+print("Hello World!")
+print("I am learning Python.")
+print("It is awesome!")
+print("hello",end=" ")
+print("hello earth")
+print(90)
+print("iam",18,"years old")
