@@ -8,3 +8,4 @@ if a>b:
 else:
     print("b is grater than a")
 print(bool("23"))
+print(bool(0))
